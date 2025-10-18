@@ -9,7 +9,7 @@ Crea una estructura HTML (index.html) con los siguientes elementos:
   * Un párrafo de texto introductorio.
   * Una imagen
   * Una sección de “cards” con 3 tarjetas que incluyan: título, texto y un botón.
-- Un footer con tu nombre y matrícula.
+- Un footer con tu nombre y matrícula.  
 
 Agregas los estilos en un archivo estilos.css
 
